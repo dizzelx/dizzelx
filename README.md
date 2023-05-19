@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/></p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <img src="https://media2.giphy.com/media/L31YRVxfExs0U/giphy.gif?cid=ecf05e47y2hbmfu2gbyux23648rjsmzfzkese6mhgcpqk3t6&ep=v1_gifs_search&rid=giphy.gif&ct=g" text-align="center"></a>
