@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dizzelx/dizzelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/></p>
+<img src="https://media0.giphy.com/media/H1zIfgQFWJR82Et8Uw/giphy.gif?cid=ecf05e47owfs7owlu0qqff2twfewwf46qdfoyx6e1v7cjlyh&ep=v1_gifs_search&rid=giphy.gif&ct=g"/></a>
